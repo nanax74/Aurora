@@ -1,0 +1,9 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/Nanashi-Hax/Aurora-Client.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Nanashi-Hax/Aurora-Server.git
+[submodule "Common"]
+	path = Common
+	url = https://github.com/Nanashi-Hax/Aurora-Common.git
