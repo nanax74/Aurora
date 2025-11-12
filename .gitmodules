@@ -7,3 +7,6 @@
 [submodule "Common"]
 	path = Common
 	url = https://github.com/Nanashi-Hax/Aurora-Common.git
+[submodule "Discord"]
+	path = Discord
+	url = https://github.com/Nanashi-Hax/Aurora-Discord.git
