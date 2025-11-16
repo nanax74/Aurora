@@ -10,6 +10,6 @@
 [submodule "Discord"]
 	path = Discord
 	url = https://github.com/Nanashi-Hax/Aurora-Discord.git
-[submodule "Qt"]
-	path = Qt
-	url = https://github.com/Nanashi-Hax/Aurora-Qt.git
+[submodule "Client-Qt"]
+	path = Client-Qt
+	url = https://github.com/Nanashi-Hax/Aurora-Client-Qt.git
